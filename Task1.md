@@ -30,7 +30,7 @@ We need the following software for completing TASK -1 and further tasks!
     - It may be in virtual machine , or the host itself
     - RAM : 4GB +
     - Storage : 50GB+
-1.  [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
+2.  [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
 
 ---

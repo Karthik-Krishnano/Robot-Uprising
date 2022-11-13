@@ -1,4 +1,4 @@
-# TASK - 3
+# TASK - 2
 # Problem Statement 
 Now that you have completed task 1 , we will get into spawning gazebo entities in this world and control it using cmd vel.
 Use the internet , and explore gazebo to complete this task
