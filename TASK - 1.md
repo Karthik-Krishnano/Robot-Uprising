@@ -139,13 +139,11 @@ get this done.
 - Keep tracking the distance traveled so as to know when to stop.
 - ROS/Tutorials/UnderstandingTopics - ROS Wiki
 
-![[Pasted image 20221112230830.png]]
+![image](https://user-images.githubusercontent.com/40001795/201526354-d185d296-2604-433c-8c1d-9cc560cbccb6.png)
 
+![image](https://user-images.githubusercontent.com/40001795/201526363-954fcb25-10c9-4f8e-aac3-b613abb67a18.png)
 
-![[Pasted image 20221112230848.png]]
-
-
-![[Pasted image 20221112230813.png]]
+![image](https://user-images.githubusercontent.com/40001795/201526377-13e2ba74-3685-4e53-98e9-44d4e5ba6bb1.png)
 
 ---
 
