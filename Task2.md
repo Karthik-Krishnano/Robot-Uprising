@@ -1,8 +1,12 @@
 # TASK - 2
-# Problem Statement 
-Now that you have completed task 1 , we will get into spawning gazebo entities in this world and control it using cmd vel.
-Use the internet , and explore gazebo to complete this task
+# Problem Statement 1:
 
+Now that you are familiar with ROS and linux commands (Hopefully; If not, please familiarize yourself with the same), try making the turtle in turtlesim follow a path that resembles a sine wave. Take feedback from the odometry topic which gives the current position of the turtle. This is called a closed control loop, and is a very important part of control systems.
+
+---
+
+Now that you have completed problem statement 1, we will get into spawning gazebo entities in this world and control it using cmd vel.
+Use the internet, and explore gazebo to complete this task
 
 The World :
 ![image](https://user-images.githubusercontent.com/40001795/201526417-7f5b88ac-169e-44af-9d30-b0182904f454.png)
@@ -11,9 +15,7 @@ The ebot :
 
 ![image](https://user-images.githubusercontent.com/40001795/201526427-42e96412-af7f-4c46-920e-d6e6b8095fd5.png)
 
-
-
-# Problem Statement 1:
+# Problem Statement 2:
 Your task is to spawn the ebot in the gazebo world and control it through teleop
 
 
