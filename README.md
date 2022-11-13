@@ -14,4 +14,4 @@ We need the following software for completing TASK -1 and further tasks!
     - Storage : 50GB+
 2.  [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
-
+You will need to have a functional knowledge of programming; either in C/C++ or in Python. For now, we are only care about getting the output, not the efficiency of algorithms, so your choice of language is not going to affect your evaluation.
