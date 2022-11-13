@@ -7,7 +7,7 @@ Feel free to reach out to us on discord if you have any doubts. There will be a 
 
 # Prerequisite
 
-We need the following software for completing TASK -1 and further tasks!
+We need the following software for completing the tasks and further tasks!
 1. [Ubuntu 20.04 OS](https://releases.ubuntu.com/focal/)
     - It may be in virtual machine, or the host itself
     - RAM : 4GB +
