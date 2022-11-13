@@ -5,10 +5,11 @@ Use the internet , and explore gazebo to complete this task
 
 
 The World :
-![[Pasted image 20221113130340.png]]
+![image](https://user-images.githubusercontent.com/40001795/201526417-7f5b88ac-169e-44af-9d30-b0182904f454.png)
 
 The ebot:
-![[Pasted image 20221113130631.png]]
+![image](https://user-images.githubusercontent.com/40001795/201526427-42e96412-af7f-4c46-920e-d6e6b8095fd5.png)
+
 
 
 # Problem Statement 1:
