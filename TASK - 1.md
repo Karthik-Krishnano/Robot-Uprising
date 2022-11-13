@@ -1,6 +1,6 @@
 # TASK - 1 
 
-# Introduction 
+## Introduction 
 
 Today, robots are used to assist humans or to reduce human efforts rather than just
 mimicking humans. With the massive development of AI and machine learning, robots
