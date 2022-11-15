@@ -33,7 +33,7 @@ roslaunch ebot_description ebot_gazebo.launch
 
 Hints:
 1. Use [Teleop](http://wiki.ros.org/teleop_twist_keyboard):
-2. Refrence [Turtlbot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
+2. Reference [Turtlbot3](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/)
 
 
 ---
